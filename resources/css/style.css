@@ -2,3 +2,6 @@ h1, a, h4, img{
   justify-content: center;
   margin: 0 auto; 
 }
+h2{
+color: green;
+}
